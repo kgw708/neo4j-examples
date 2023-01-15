@@ -1,0 +1,4 @@
+siteId:ID,title,year:int,:LABEL
+hoge123,"portal site",2020,Web
+fuga456,"shopping site",2021,Web;Sequel
+piyo789,"sns site",2022,Web;Sequel

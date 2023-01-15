@@ -1,0 +1,14 @@
+version: '3'
+services:
+  neo4j:
+    image: neo4j:latest
+    environment:
+      - EXTENSION_SCRIPT='./script/import.sh'
+    volumes:
+      - ./volumes/neo4j/data:/data
+      - ./volumes/neo4j/logs:/logs
+      - ./volumes/neo4j/import:/import
+      - ./volumes/neo4j/script:/script
+    ports:
+      - 7474:7474
+      - 7687:7687

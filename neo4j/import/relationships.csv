@@ -1,0 +1,10 @@
+:START_ID,role,:END_ID,:TYPE
+taro,"web director",hoge123,IN_CHARGE
+taro,"web director",fuga456,IN_CHARGE
+taro,"web director",piyo789,IN_CHARGE
+hanako,"web designer",hoge123,IN_CHARGE
+hanako,"web designer",fuga456,IN_CHARGE
+hanako,"web designer",piyo789,IN_CHARGE
+ichiro,"web programmer",hoge123,IN_CHARGE
+ichiro,"web programmer",fuga456,IN_CHARGE
+ichiro,"web programmer",piyo789,IN_CHARGE
