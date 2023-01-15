@@ -1,4 +1,4 @@
 personId:ID,name,:LABEL
-taro,"Taro Yamada","engineer"
-hanako,"Hanako Tanaka","engineer"
-ichiro,"Ichiro Suzuki","engineer"
+taro,"Taro Yamada",engineer;leader
+hanako,"Hanako Tanaka",engineer
+ichiro,"Ichiro Suzuki",engineer
